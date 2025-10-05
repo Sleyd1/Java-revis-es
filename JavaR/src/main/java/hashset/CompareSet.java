@@ -1,4 +1,4 @@
-package checkmultipleelementshashset;
+package hashset;
 
 
 import java.util.HashSet;
