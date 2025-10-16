@@ -9,5 +9,8 @@
         <module name="JavaR" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="21">
+      <module name="Java-revis-es" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
